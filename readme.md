@@ -1,0 +1,1 @@
+Stripe module for [KohanaPHP](http://github.com/burnpost/stripe) v3
